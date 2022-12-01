@@ -5,8 +5,6 @@ Name :VISHWA RATHINAM S
 Roll no :212221240063
 
 
- 
-### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
 
 ### Aim: 
 To Interface 4x4 keypad interface  LPC2148 ARM 7 and write a code for displaying the inputs on a 16x2 lcd 
